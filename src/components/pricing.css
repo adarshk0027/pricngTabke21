@@ -1,0 +1,15 @@
+.itemList ul {
+    list-style-type: none;
+}
+.ActiveList ul li{
+    width: fit-content;
+    font-size: larger;
+    font-weight: bolder;
+
+}
+.NonActive ul li{
+    width: fit-content;
+    font-size: larger;
+    font-weight: bolder;
+    color: grey;
+}

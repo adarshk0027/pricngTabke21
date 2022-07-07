@@ -1,0 +1,14 @@
+body{
+  background:  linear-gradient(to right, #0062E6, #33AEFF);;
+
+}
+.App {
+  height: 40rem;
+  text-align: center;
+}
+.Prices{
+  margin-left:4rem;
+  display: flex;
+  gap: 1rem;
+}
+

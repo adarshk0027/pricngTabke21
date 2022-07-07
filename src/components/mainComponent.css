@@ -1,0 +1,43 @@
+
+.mainDiv{
+    padding-top: 2rem;
+}
+.container{
+    width: 19.5rem;
+    height: 30rem;
+    background-color: white;   
+    border-radius: 1rem;
+}
+.header {
+    padding-top: .1rem;
+    line-height: .5rem;
+    border-bottom: 2px solid;
+}
+.header small{
+     font-size: x-small;
+     color: rgba(128, 128, 128, 0.808);
+     letter-spacing: .2rem;
+     font-weight: 700;
+}
+.header h6{
+    font-weight: 500;
+    font-size: 1rem;
+}
+.DollerText{
+    font-size: 3rem;
+    font-weight: 500;
+}
+.MonthText{
+    font-size: small;
+    font-weight: 500;
+    letter-spacing: .1rem;
+}
+.btn{
+    margin-bottom: 3rem;
+}
+
+.container:hover{
+position: relative;
+bottom: .5rem;
+
+}
